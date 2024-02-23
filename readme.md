@@ -29,3 +29,8 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Using groupby to perform aggregate analysis.
 - Plotting bar charts and lines graphs to visualize our results.
 - Labeling our graphs.
+
+## About Dataset
+
+The Swiggy Restaurant Dataset is a comprehensive collection of data related to restaurants available on the Swiggy food delivery platform.<br>
+This dataset provides valuable information about various aspects of restaurants, enabling users to explore, analyze, and gain insights into the restaurant landscape on Swiggy.
